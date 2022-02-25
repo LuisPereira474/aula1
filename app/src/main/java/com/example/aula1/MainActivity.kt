@@ -17,4 +17,6 @@ class MainActivity : AppCompatActivity() {
     //login
 
    //registar
+
+    //pagina de password reset
 }
