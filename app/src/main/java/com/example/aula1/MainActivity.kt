@@ -10,4 +10,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     // fiz alguma coisa...
+    // commit: guardar localmente
+    // push: enviar do local para o remote
 }
