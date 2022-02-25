@@ -13,5 +13,10 @@ class MainActivity : AppCompatActivity() {
     // commit: guardar localmente
     // push: enviar do local para o remote
 
-    // correcao bug
+
+    //login
+
+   //registar
+
+    //pagina de password reset
 }
